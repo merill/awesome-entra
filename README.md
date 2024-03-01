@@ -19,15 +19,21 @@
 
 ## Tools
 
+### Microsoft Product Downloads
+
+- [Microsoft Entra Connect](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-version-history)
+- [Microsoft Entra Provisioning Agent](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/reference-version-history)
+- [Microsoft Entra Connect Health agents](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-health-agent-install)
+
 ### CLI
 
 - [AADInternals](https://github.com/Gerenios/AADInternals) - PowerShell toolkit for administering and hacking Azure AD and Microsoft 365. [![stars](https://badgen.net/github/stars/Gerenios/AADInternals)](https://badgen.net/github/stars/Gerenios/AADInternals)
 - [Azure AD Assessment aka.ms/AzureADAssessmentTools](https://github.com/AzureAD/AzureADAssessment/wiki) - Guidance to assess the health of an Azure AD tenant and provide best practice guidance / recommendations. [![stars](https://badgen.net/github/stars/AzureAD/AzureADAssessment)](https://badgen.net/github/stars/AzureAD/AzureADAssessment)
 - [CA Optics](https://github.com/jsa2/caOptics) - PowerShell module for visualizing Conditional Access policies. [![stars](https://badgen.net/github/stars/jsa2/caOptics)](https://badgen.net/github/stars/jsa2/caOptics)
-- [Microsoft First Party AppNames aka.ms/AppNames](https://github.com/merill/microsoft-info/) - Repository hosting a daily updated csv/json of Microsoft first party app names and their GUIDs (useful for kql queries and scripts). [![stars](https://badgen.net/github/stars/merill/microsoft-info)](https://badgen.net/github/stars/merill/microsoft-info)
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound) - BloodHound uses graph theory to reveal hidden relationships and attack paths in an Active Directory environment that would otherwise be impossible to quickly identify. [![stars](https://badgen.net/github/stars/BloodHoundAD/BloodHound)](https://badgen.net/github/stars/BloodHoundAD/BloodHound)
 - [Entra Exporter aka.ms/EntraExporter](https://github.com/microsoft/EntraExporter) - PowerShell module that exports all the config and data of a Microsoft Entra tenant. [![stars](https://badgen.net/github/stars/microsoft/EntraExporter)](https://badgen.net/github/stars/microsoft/EntraExporter)
 - [MicroBurst](https://github.com/NetSPI/MicroBurst) - PowerShell Toolkit for Attacking Azure. [![stars](https://badgen.net/github/stars/NetSPI/MicroBurst)](https://badgen.net/github/stars/NetSPI/MicroBurst)
+- [Microsoft First Party AppNames aka.ms/AppNames](https://github.com/merill/microsoft-info/) - Repository hosting a daily updated csv/json of Microsoft first party app names and their GUIDs (useful for kql queries and scripts). [![stars](https://badgen.net/github/stars/merill/microsoft-info)](https://badgen.net/github/stars/merill/microsoft-info)
 - [MSIdentityTools aka.ms/msid](https://github.com/AzureAD/MSIdentityTools) - Collection of useful cmdlets for common Entra functionality. [![stars](https://badgen.net/github/stars/AzureAD/MSIdentityTools)](https://badgen.net/github/stars/AzureAD/MSIdentityTools)
 - [PowerZure](https://github.com/hausec/PowerZure) - PowerShell project created to perform reconnaissance and exploitation of Azure, AzureAD, and the associated resources. [![stars](https://badgen.net/github/stars/hausec/PowerZure)](https://badgen.net/github/stars/hausec/PowerZure)
 - [ROADrecon](https://github.com/dirkjanm/ROADtools) - Tool for exploring information in Azure AD from both a Red Team and Blue Team perspective. [![stars](https://badgen.net/github/stars/dirkjanm/ROADtools)](https://badgen.net/github/stars/dirkjanm/ROADtools)
@@ -37,12 +43,13 @@
 
 ### Web apps
 
-- [idPowerToys.com](https://idPowerToys.com) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 - [AADInternals - OSINT](https://aadinternals.com/osint) - OSINT web app that displays tenant information.
+- [idPowerToys.com](https://idPowerToys.com) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 
-### Others
+### Log Analytics/KQL/other
 
 - [Entra ID Security Config Analyzer (EIDSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md) - Monitor Entra ID security configuration using Log Analytics, Azure Workbook and Sentinel. [![stars](https://badgen.net/github/stars/Cloud-Architekt/AzureAD-Attack-Defense)](https://badgen.net/github/stars/Cloud-Architekt/AzureAD-Attack-Defense)
+- [PingCastle](https://www.pingcastle.com/) - Active Directory Security Assessment Tool [![stars](https://badgen.net/github/stars/vletoux/pingcastle)](https://badgen.net/github/stars/vletoux/pingcastle)
 
 ## Training
 
