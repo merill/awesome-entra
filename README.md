@@ -46,6 +46,7 @@ Microsoft Entra related aka.ms links
 
 ### Microsoft Product Downloads
 
+- [Microsoft Entra Application Proxy](https://learn.microsoft.com/en-us/entra/identity/app-proxy/application-proxy-release-version-history)
 - [Microsoft Entra Connect](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-version-history)
 - [Microsoft Entra Provisioning Agent](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/reference-version-history)
 - [Microsoft Entra Connect Health agents](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-health-agent-install)
@@ -112,6 +113,7 @@ Microsoft Entra related aka.ms links
   - [Study guide for Exam SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/sc-300)
   - [SC-300 exam prep videos - Microsoft Learn](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-300-implement-identities-in-azure-ad-1-of-4)
   - [Course SC-300T00-A: Identity and Access Administrator](https://learn.microsoft.com/en-us/training/courses/sc-300t00)
+  - [John Savill's SC-300 Cram - Playlist](https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
 
 ## Community
 
@@ -122,12 +124,22 @@ Microsoft Entra related aka.ms links
 
 ## YouTube
 
+### Channels
+
 - [Andy Malone (@AndyMaloneMVP)](https://www.youtube.com/@AndyMaloneMVP), MVP
 - [John Craddock Identity and Access Training (@john_craddock)](https://www.youtube.com/@john_craddock), MVP
 - [John Savill (@NTFAQGuy)](https://www.youtube.com/@NTFAQGuy), Microsoft
 - [Merill Fernando (@merillx))](https://www.youtube.com/@merillx), Microsoft
 - [Peter Rising (@peterrisingM365)](https://www.youtube.com/@peterrisingM365), MVP
 - [RioCloudSync (@RioCloudSync)](https://www.youtube.com/@RioCloudSync), MVP
+
+### Shows
+
+#### Entra ID Architecture Deep Dive
+
+- [Microsoft Entra ID Core Store: Data centers](https://youtu.be/O8ZPjSxNte0)
+- [Microsoft Entra ID Core Store: Read and write replicas](https://www.youtube.com/watch?v=AeLDtcpKc-U)
+- [Microsoft Entra ID Core Store: Scale units](https://www.youtube.com/watch?v=OcKO44GtHh8)
 
 ## Awesome blog posts
 
@@ -151,7 +163,7 @@ These posts will make your head hurt, but in a good way.
 - [Jan Bakker (@janbakker_)](https://twitter.com/janbakker_), MVP
 - [Jef Kazimer (@jefkazimer)](https://twitter.com/jefkazimer), Microsoft
 - [Jeffrey Appel (@JeffreyAppel7)](https://twitter.com/JeffreyAppel7), MVP
-- [Joe Stocker (@ITguySoCal)](https://twitter.com/ITguySoCal)
+- [Joe Stocker (@ITguySoCal)](https://twitter.com/ITguySoCal), MVP
 - [John Savill (@NTFAQGuy)](https://twitter.com/NTFAQGuy), Microsoft
 - [Jon Jarvis]
 - [Jon Towles (@m0bilej0n)](https://twitter.com/m0bilej0n), MVP
