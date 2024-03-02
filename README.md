@@ -8,10 +8,10 @@
 - [Mind Map](#mind-map)
 - [aka.ms](#akams)
 - [Tools](#tools)
-- [Training](#training)
 - [Community](#community)
 - [YouTube](#youtube)
 - [Twitter](#twitter)
+- [Blogs](#blogs)
 
 ## Newsletter
 
