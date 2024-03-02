@@ -122,8 +122,9 @@ Microsoft Entra related aka.ms links
 
 ## YouTube
 
-- [Andy Malone, (@AndyMaloneMVP)](https://www.youtube.com/@AndyMaloneMVP), MVP
-- [John Savill](https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ), Microsoft
+- [Andy Malone (@AndyMaloneMVP)](https://www.youtube.com/@AndyMaloneMVP), MVP
+- [John Craddock Identity and Access Training (@john_craddock)](https://www.youtube.com/@john_craddock), MVP
+- [John Savill (@NTFAQGuy)](https://www.youtube.com/@NTFAQGuy), Microsoft
 - [Merill Fernando (@merillx))](https://www.youtube.com/@merillx), Microsoft
 - [Peter Rising (@peterrisingM365)](https://www.youtube.com/@peterrisingM365), MVP
 - [RioCloudSync (@RioCloudSync)](https://www.youtube.com/@RioCloudSync), MVP
@@ -180,12 +181,14 @@ These posts will make your head hurt, but in a good way.
 ## LinkedIn
 
 - [Bailey Bercik](https://www.linkedin.com/in/baileybercik/), Microsoft
+- [Chetan Desai](https://www.linkedin.com/in/cmmdesai/), Microsoft
 - [Christina Morillo](https://www.linkedin.com/in/christinamorillo/), Ex-Microsoft
 - [Den D.](https://www.linkedin.com/in/dendeli/), Microsoft
 - [Eric Mannon](https://www.linkedin.com/in/emannon/), MVP
 - [Mark Morowczynski](https://www.linkedin.com/in/markmorow/), Microsoft
+- [Mark Wahl](https://www.linkedin.com/in/mawahl/), Microsoft
 - [Monicah Wambugu](https://www.linkedin.com/in/wambugu/), Microsoft
-
+- [Tee Earls](https://www.linkedin.com/in/teeearls/), Microsoft
 
 ## Blogs
 
@@ -215,6 +218,7 @@ These posts will make your head hurt, but in a good way.
 - [David Okeyode's Blog - davidokeyode.medium.com](https://davidokeyode.medium.com/)
 - [Derk van der Woude - derkvanderwoude.medium.com](https://derkvanderwoude.medium.com)
 - [DirTeam - dirteam.com](https://dirteam.com)
+- [EMS Route - emsroute.com](https://emsroute.com)
 - [F12 - f12.hu](https://f12.hu)
 - [Formula5 - formula5.com](https://formula5.com)
 - [Good Workaround - goodworkaround.com](https://goodworkaround.com/)
