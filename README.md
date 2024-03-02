@@ -274,6 +274,7 @@ These posts will make your head hurt, but in a good way.
 - [SecureD IAM - securediam.com](https://securediam.com/)
 - [Silvio Di Benedetto - silviodibenedetto.com](https://www.silviodibenedetto.com/)
 - [Sky Cliffs - skycliffs.wordpress.com](https://skycliffs.wordpress.com/)
+- [Sky made simple - blog.skymadesimple.io](https://blog.skymadesimple.io/)
 - [Sonnes Cloud Blog - blog.sonnes.cloud](https://blog.sonnes.cloud/)
 - [Sysanddeploy - systanddeploy.com](https://www.systanddeploy.com)
 - [TBone - tbone.se](https://www.tbone.se/)
