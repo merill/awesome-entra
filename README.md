@@ -165,7 +165,7 @@ These posts will make your head hurt, but in a good way.
 - [Jeffrey Appel (@JeffreyAppel7)](https://twitter.com/JeffreyAppel7), MVP
 - [Joe Stocker (@ITguySoCal)](https://twitter.com/ITguySoCal), MVP
 - [John Savill (@NTFAQGuy)](https://twitter.com/NTFAQGuy), Microsoft
-- [Jon Jarvis]
+- [Jon Jarvis (@jonjarvis)](https://twitter.com/jonjarvis), MVP
 - [Jon Towles (@m0bilej0n)](https://twitter.com/m0bilej0n), MVP
 - [Joosua Santasalo (@SantasaloJoosua)](https://twitter.com/SantasaloJoosua), MVP
 - [@inversecos](https://twitter.com/inversecos)
