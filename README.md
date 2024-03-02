@@ -35,9 +35,9 @@
 - [aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo) - My Security Info
 - [aka.ms/mysignins](https://aka.ms/mysignins) - My Sign-ins
 - [aka.ms/pim](https://aka.ms/pim) - Privileged Identity Management - Roles
-- [aka.ms/pim](https://aka.ms/pimg) - Privileged Identity Management - Groups
-- [aka.ms/pim](https://aka.ms/pimr) - Privileged Identity Management - Roles
-- [aka.ms/pim](https://aka.ms/pimz) - Privileged Identity Management - Azure Resources
+- [aka.ms/pimg](https://aka.ms/pimg) - Privileged Identity Management - Groups
+- [aka.ms/pimr](https://aka.ms/pimr) - Privileged Identity Management - Roles
+- [aka.ms/pimz](https://aka.ms/pimz) - Privileged Identity Management - Azure Resources
 - [aka.ms/sspr](https://aka.ms/sspr) - Self Service Password Reset
 - [aka.ms/mfasetup](https://aka.ms/mfasetup) - Alternative for My Security Info
 
