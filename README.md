@@ -11,6 +11,7 @@
 - [Community](#community)
 - [YouTube](#youtube)
 - [Twitter](#twitter)
+- [LinkedIn](#linkedin)
 - [Blogs](#blogs)
 
 ## Newsletter
@@ -116,14 +117,15 @@ Microsoft Entra related aka.ms links
 - [Reddit /r/Entra](https://www.reddit.com/r/Entra) - Subreddit for discussing Microsoft Entra.
 - [Discord discord.entra.news](https://discord.entra.news) - Discord server for discussing Microsoft Entra.
 - [Slack - MacAdmins #microsoft-entra channel](https://macadmins.slack.com/archives/C03PDM79GKG) - Slack channel for discussing Microsoft Entra related to Apple devices.
+- [LinkedIn Group - Microsoft Entra](https://www.linkedin.com/groups/8780811/) - LinkedIn group for discussing Microsoft Entra.
 
 ## YouTube
 
-- [Andy Malone - MVP](https://www.youtube.com/@AndyMaloneMVP)
-- [John Savill - Microsoft](https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ)
-- [Merill - Microsoft](https://www.youtube.com/@merillx)
-- [Peter Rising](https://www.youtube.com/@peterrisingM365)
-- [RioCloudSync - MVP](https://www.youtube.com/@RioCloudSync)
+- [Andy Malone, (@AndyMaloneMVP)](https://www.youtube.com/@AndyMaloneMVP), MVP
+- [John Savill](https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ), Microsoft
+- [Merill Fernando (@merillx))](https://www.youtube.com/@merillx), Microsoft
+- [Peter Rising (@peterrisingM365)](https://www.youtube.com/@peterrisingM365), MVP
+- [RioCloudSync (@RioCloudSync)](https://www.youtube.com/@RioCloudSync), MVP
 
 ## Awesome blog posts
 
@@ -133,42 +135,56 @@ These posts will make your head hurt, but in a good way.
 
 ## Twitter
 
-- [Alex Simons - Microsoft](https://twitter.com/Alex_A_Simons)
-- [Ali Tajran](https://twitter.com/alitajran)
-- [Andy Robbins](https://twitter.com/_wald0) - BloodHound
-- [Daniel Krzyczkowski - MVP](https://twitter.com/DKrzyczkowski)
-- [Daniel Bradley - MVP](https://twitter.com/DanielatOCN)
-- [DebugPrivilege](https://twitter.com/DebugPrivilege)
-- [Dirk-jan](https://twitter.com/_dirkjan) - ROADrecon
-- [Dr. Nestori Syynimaa - Microsoft](https://twitter.com/DrAzureAD) - AADInternals
-- [Erica Zelic](https://twitter.com/EricaZelic)
-- [Fabian Bader - MVP](https://twitter.com/fabian_bader)
-- [Jan Bakker - MVP](https://twitter.com/janbakker_)
-- [Jef Kazimer - Microsoft](https://twitter.com/jefkazimer)
-- [Jeffrey Appel - MVP](https://twitter.com/JeffreyAppel7)
-- [Joe Stocker](https://twitter.com/ITguySoCal)
-- [John Savill - Microsoft](https://twitter.com/NTFAQGuy)
-- [Jon Towles - MVP](https://twitter.com/m0bilej0n)
-- [Joosua Santasalo - MVP](https://twitter.com/SantasaloJoosua)
-- [inversecos](https://twitter.com/inversecos)
-- [Karl Fosaaen](https://twitter.com/kfosaaen) - MicroBurst
-- [Lukas Beran - Microsoft](https://twitter.com/lukasberancz)
-- [Marius Solbakken](https://twitter.com/mariussolbakken)
-- [Matt Zorich - Microsoft](https://twitter.com/reprise_99)
-- [Merill Fernando - Microsoft](https://twitter.com/merill)
-- [Olaf Hartong - MVP](https://twitter.com/olafhartong)
-- [Pim Jacobs - MVP](https://twitter.com/pimjacobs89)
-- [mRr3b00t](https://twitter.com/mRr3b00t)
-- [Nathan McNulty](https://twitter.com/nathanmcnulty)
-- [Rod Trent - Microsoft](https://twitter.com/rodtrent)
-- [Ryan Hausknecht](https://twitter.com/Haus3c)
-- [rootsecdev](https://twitter.com/rootsecdev)
-- [Sean Metcalf](https://twitter.com/PyroTek3)
-- [Suryendu Bhattacharyya](https://twitter.com/crookedbong)
-- [SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)
-- [Thomas Naunheim - MVP](https://twitter.com/thomas_live)
-- [Thijs Lecomte - MVP](https://twitter.com/ThijsLecomte)
-- [Tony Redmond - MVP](https://twitter.com/12Knocksinna)
+- [Alex Simons (@Alex_A_Simons)](https://twitter.com/Alex_A_Simons), Microsoft
+- [Ali Tajran (@alitajran)](https://twitter.com/alitajran)
+- [Andy Robbins (@_wald0)](https://twitter.com/_wald0), BloodHound
+- [Claus Jespersen](https://twitter.com/cjaspersen), Microsoft
+- [Daniel Krzyczkowski (@DKrzyczkowski)](https://twitter.com/DKrzyczkowski), MVP
+- [Daniel Bradley (@DanielatOCN)](https://twitter.com/DanielatOCN), MVP
+- [DebugPrivilege (@DebugPrivilege)](https://twitter.com/DebugPrivilege), Ex MVP
+- [Dirk-jan (@_dirkjan)](https://twitter.com/_dirkjan), ROADrecon
+- [Dr. Nestori Syynimaa (@DrAzureAD)](https://twitter.com/DrAzureAD), AADInternals, Microsoft
+- [Erica Zelic (@EricaZelic)](https://twitter.com/EricaZelic)
+- [Fabian Bader (@fabian_bader)](https://twitter.com/fabian_bader), MVP
+- [Jan Bakker (@janbakker_)](https://twitter.com/janbakker_), MVP
+- [Jef Kazimer (@jefkazimer)](https://twitter.com/jefkazimer), Microsoft
+- [Jeffrey Appel (@JeffreyAppel7)](https://twitter.com/JeffreyAppel7), MVP
+- [Joe Stocker (@ITguySoCal)](https://twitter.com/ITguySoCal)
+- [John Savill (@NTFAQGuy)](https://twitter.com/NTFAQGuy), Microsoft
+- [Jon Jarvis]
+- [Jon Towles (@m0bilej0n)](https://twitter.com/m0bilej0n), MVP
+- [Joosua Santasalo (@SantasaloJoosua)](https://twitter.com/SantasaloJoosua), MVP
+- [@inversecos](https://twitter.com/inversecos)
+- [Karl Fosaaen (@kfosaaen)](https://twitter.com/kfosaaen), MicroBurst
+- [Lukas Beran (@lukasberancz)](https://twitter.com/lukasberancz), Microsoft
+- [Marius Solbakken (@mariussolbakken)](https://twitter.com/mariussolbakken)
+- [Matt Zorich (@reprise_99)](https://twitter.com/reprise_99), Microsoft
+- [Merill Fernando (@merill)](https://twitter.com/merill), Microsoft
+- [Nick Ludwig (@welcome2theDL)](https://twitter.com/welcome2theDL), Microsoft
+- [Olaf Hartong (@olafhartong), MVP](https://twitter.com/olafhartong), MVP
+- [Pim Jacobs (@pimjacobs89), MVP](https://twitter.com/pimjacobs89), MVP
+- [mRr3b00t (@mRr3b00t)](https://twitter.com/mRr3b00t)
+- [Nathan McNulty (@nathanmcnulty)](https://twitter.com/nathanmcnulty)
+- [Rod Trent (@rodtrent)](https://twitter.com/rodtrent), Microsoft
+- [rootsecdev (@rootsecdev)](https://twitter.com/rootsecdev)
+- [Ryan Hausknecht (@Haus3c)](https://twitter.com/Haus3c)
+- [Sean Metcalf (@PyroTek3)](https://twitter.com/PyroTek3)
+- [Stian A. Strysse (@stianstrysse)](https://twitter.com/stianstrysse)
+- [Suryendu Bhattacharyya (@crookedbong)](https://twitter.com/crookedbong)
+- [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)
+- [Thomas Naunheim (@thomas_live), MVP](https://twitter.com/thomas_live), MVP
+- [Thijs Lecomte (@ThijsLecomte), MVP](https://twitter.com/ThijsLecomte), MVP
+- [Tony Redmond (@12Knocksinna)](https://twitter.com/12Knocksinna),  MVP
+
+## LinkedIn
+
+- [Bailey Bercik](https://www.linkedin.com/in/baileybercik/), Microsoft
+- [Christina Morillo](https://www.linkedin.com/in/christinamorillo/), Ex-Microsoft
+- [Den D.](https://www.linkedin.com/in/dendeli/), Microsoft
+- [Eric Mannon](https://www.linkedin.com/in/emannon/), MVP
+- [Mark Morowczynski](https://www.linkedin.com/in/markmorow/), Microsoft
+- [Monicah Wambugu](https://www.linkedin.com/in/wambugu/), Microsoft
+
 
 ## Blogs
 
@@ -176,76 +192,76 @@ These posts will make your head hurt, but in a good way.
 
 - [Microsoft Entra Blog - aka.ms/identityblog](https://aka.ms/identityblog)
 - [Microsoft Entra Developer Blog](https://devblogs.microsoft.com/identity/)
+- [Microosft Security Blog](https://www.microsoft.com/en-us/security/blog/)
 
-### Community
+### Community Blogs
 
-- [360 Thrive 365](https://www.threesixtythrive365.com/)
-- [Admindroid Blog](https://blog.admindroid.com/)
-- [Alex Holmeset's Blog](https://alexholmeset.blog)
-- [Alitajran](https://www.alitajran.com/)
-- [Blueboxes](https://www.blueboxes.co.uk/)
-- [C7 Solutions](https://c7solutions.com/)
-- [CSWRLD](https://www.cswrld.com)
-- [Call 4 Cloud](https://call4cloud.nl)
-- [Charbel Nemnom](https://charbelnemnom.com/)
-- [Ciraltos](https://www.ciraltos.com)
-- [Cloud Architekt](https://www.cloud-architekt.net/)
-- [Cloud Coffee](https://www.cloudcoffee.ch/)
-- [Damien Bod](https://damienbod.com)
-- [David Okeyode's Blog](https://davidokeyode.medium.com/)
-- [Derk van der Woude](https://derkvanderwoude.medium.com)
-- [DirTeam](https://dirteam.com)
-- [F12](https://f12.hu)
-- [Formula5](https://formula5.com)
-- [Good Workaround](https://goodworkaround.com/)
-- [Hamet Benoit's Blog](https://blog.hametbenoit.info/)
-- [Hans Brender](https://hansbrender.com/)
-- [Hybrid Brothers](https://hybridbrothers.com/)
-- [Identity Man](https://identity-man.eu/)
-- [Idefix Wiki](https://idefixwiki.no/)
-- [In The Cloud 24/7](https://www.inthecloud247.com/)
-- [Intune IRL](https://www.intuneirl.com/)
-- [Icewolf's Blog](https://blog.icewolf.ch/)
-- [Jan Bakker](https://janbakker.tech)
-- [Jeff Brown's Blog](https://jeffbrown.tech/)
-- [Julian Jakob](https://www.julianjakob.com)
-- [Merill Fernando's Blog](https://merill.net/)
-- [MS Security](https://mssec.wordpress.com/)
-- [Matt Chatt](https://mattchatt.co.za)
-- [Michev.info](https://www.michev.info/)
-- [Mike MDM](https://mikemdm.de)
-- [MIM And Beyond](https://suryendub.github.io/)
-- [Mobile Jon](https://mobile-jon.com/)
-- [Myron Helgering](https://myronhelgering.com/)
-- [Nate Hutchinson](https://www.natehutchinson.co.uk)
-- [Niels Kok](https://www.nielskok.tech/)
-- [Niklas Rast](https://niklasrast.com/)
-- [Oceanleaf - Windows 365 PAW](https://oceanleaf.ch/windows-365-paw)
-- [O365 Reports](https://o365reports.com/)
-- [Our Cloud Network](https://ourcloudnetwork.com/)
-- [Prajwal Desai](https://www.prajwaldesai.com)
-- [Poem to MDM](https://poemtomdm.fr/)
-- [Practical 365](https://practical365.com/)
-- [Rod Trent's Substack](https://rodtrent.substack.com)
-- [Rogier Dijkman](https://rogierdijkman.medium.com)
-- [Rothe's Blog](https://blog.rothe.uk/)
-- [RootSecDev](https://rootsecdev.medium.com)
-- [SCCMentor](https://sccmentor.com/)
-- [SCloud](https://scloud.work/)
-- [SMB to the Cloud](https://smbtothecloud.com/)
-- [Sander Van Rooij](https://svrooij.io/)
-- [Secure Cloud Blog](https://securecloud.blog/)
-- [SecureDiam](https://securediam.com/)
-- [Silvio Di Benedetto](https://www.silviodibenedetto.com/)
-- [Sky Cliffs](https://skycliffs.wordpress.com/)
-- [Sonnes Cloud Blog](https://blog.sonnes.cloud/)
-- [Splunk](https://www.splunk.com/)
-- [Sysanddeploy](https://www.systanddeploy.com)
-- [TBone](https://www.tbone.se/)
-- [Tenable Tech Blog](https://medium.com/tenable-techblog)
-- [That Lazy Admin](http://www.thatlazyadmin.com)
-- [The New Control Plane](https://medium.com/the-new-control-plane)
-- [Undocumented Features](https://www.undocumented-features.com/)
-- [Wald0](https://medium.com/@_wald0)
-- [Win Solution](https://www.winsolution.ch/)
-- [Zero Trust](https://zerotrust.how/)
+- [360 Thrive 365 - threesixtythrive365.com](https://www.threesixtythrive365.com/)
+- [Admindroid Blog - blog.admindroid.com](https://blog.admindroid.com/)
+- [Alex Holmeset's Blog - alexholmeset.blog](https://alexholmeset.blog)
+- [Alitajran - alitajran.com](https://www.alitajran.com/)
+- [Andy Robbins - medium.com/@_wald0](https://medium.com/@_wald0)
+- [Blueboxes - blueboxes.co.uk](https://www.blueboxes.co.uk/)
+- [Brian Reid - c7solutions.com](https://c7solutions.com/)
+- [Lukas Beran - cswrld.com](https://www.cswrld.com)
+- [Call 4 Cloud - call4cloud.nl](https://call4cloud.nl)
+- [Charbel Nemnom - charbelnemnom.com](https://charbelnemnom.com/)
+- [Ciraltos - ciraltos.com](https://www.ciraltos.com)
+- [Cloud Architekt - cloud-architekt.net](https://www.cloud-architekt.net/)
+- [Cloud Brothers - cloudbrothers.info](https://cloudbrothers.info)
+- [Cloud Coffee - cloudcoffee.ch](https://www.cloudcoffee.ch/)
+- [Damien Bod - damienbod.com](https://damienbod.com)
+- [David Okeyode's Blog - davidokeyode.medium.com](https://davidokeyode.medium.com/)
+- [Derk van der Woude - derkvanderwoude.medium.com](https://derkvanderwoude.medium.com)
+- [DirTeam - dirteam.com](https://dirteam.com)
+- [F12 - f12.hu](https://f12.hu)
+- [Formula5 - formula5.com](https://formula5.com)
+- [Good Workaround - goodworkaround.com](https://goodworkaround.com/)
+- [Hamet Benoit's Blog - blog.hametbenoit.info](https://blog.hametbenoit.info/)
+- [Hans Brender - hansbrender.com](https://hansbrender.com/)
+- [Hybrid Brothers - hybridbrothers.com](https://hybridbrothers.com/)
+- [Identity Man - identity-man.eu](https://identity-man.eu/)
+- [Idefix Wiki - idefixwiki.no](https://idefixwiki.no/)
+- [In The Cloud 24/7 - inthecloud247.com](https://www.inthecloud247.com/)
+- [Intune IRL - intuneirl.com](https://www.intuneirl.com/)
+- [Icewolf's Blog - blog.icewolf.ch](https://blog.icewolf.ch/)
+- [Jan Bakker - janbakker.tech](https://janbakker.tech)
+- [Jeff Brown's Blog - jeffbrown.tech](https://jeffbrown.tech/)
+- [Julian Jakob - julianjakob.com](https://www.julianjakob.com)
+- [Learning By Doing - learningbydoing.cloud](https://learningbydoing.cloud/)
+- [Merill Fernando's Blog - merill.net](https://merill.net/)
+- [MS Security - mssec.wordpress.com](https://mssec.wordpress.com/)
+- [Matt Chatt - mattchatt.co.za](https://mattchatt.co.za)
+- [Michev.info - michev.info](https://www.michev.info/)
+- [Mike MDM - mikemdm.de](https://mikemdm.de)
+- [MIM And Beyond - suryendub.github.io](https://suryendub.github.io/)
+- [Mobile Jon - mobile-jon.com](https://mobile-jon.com/)
+- [Myron Helgering - myronhelgering.com](https://myronhelgering.com/)
+- [Nate Hutchinson - natehutchinson.co.uk](https://www.natehutchinson.co.uk)
+- [Niels Kok - nielskok.tech](https://www.nielskok.tech/)
+- [Niklas Rast - niklasrast.com](https://niklasrast.com/)
+- [Oceanleaf - oceanleaf.ch](https://oceanleaf.ch)
+- [O365 Reports - o365reports.com](https://o365reports.com/)
+- [Our Cloud Network - ourcloudnetwork.com](https://ourcloudnetwork.com/)
+- [Prajwal Desai - prajwaldesai.com](https://www.prajwaldesai.com)
+- [Poem to MDM - poemtomdm.fr](https://poemtomdm.fr/)
+- [Practical 365 - practical365.com](https://practical365.com/)
+- [Rod Trent's Substack - rodtrent.substack.com](https://rodtrent.substack.com)
+- [Rogier Dijkman - rogierdijkman.medium.com](https://rogierdijkman.medium.com)
+- [Rothe's Blog - blog.rothe.uk](https://blog.rothe.uk/)
+- [RootSecDev - rootsecdev.medium.com](https://rootsecdev.medium.com)
+- [SCCMentor - sccmentor.com](https://sccmentor.com/)
+- [SCloud - scloud.work](https://scloud.work/)
+- [SMB to the Cloud - smbtothecloud.com](https://smbtothecloud.com/)
+- [Sander Van Rooij - svrooij.io](https://svrooij.io/)
+- [Secure Cloud Blog - securecloud.blog](https://securecloud.blog/)
+- [SecureD IAM - securediam.com](https://securediam.com/)
+- [Silvio Di Benedetto - silviodibenedetto.com](https://www.silviodibenedetto.com/)
+- [Sky Cliffs - skycliffs.wordpress.com](https://skycliffs.wordpress.com/)
+- [Sonnes Cloud Blog - blog.sonnes.cloud](https://blog.sonnes.cloud/)
+- [Sysanddeploy - systanddeploy.com](https://www.systanddeploy.com)
+- [TBone - tbone.se](https://www.tbone.se/)
+- [That Lazy Admin - thatlazyadmin.com](http://www.thatlazyadmin.com)
+- [The New Control Plane - medium.com/the-new-control-plane](https://medium.com/the-new-control-plane)
+- [Undocumented Features - undocumented-features.com](https://www.undocumented-features.com/)
+- [Zero Trust - zerotrust.how](https://zerotrust.how/)
