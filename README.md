@@ -22,10 +22,9 @@
 
 - [Microsoft Entra Mind Map - idPowerToys.com](https://idpowertoys.com/assets/mindmaps/entra-v1.pdf) - Visual representation of Microsoft Entra and its components with links to docs.
 
-## aka.ms
+## aka.ms & cmd.ms
 
-Microsoft Entra related aka.ms links
-
+- [cmd.ms/portals/azuread](https://cmd.ms/portals/azuread) - Complete list of shortcuts to blades in the Entra portal.
 - [aka.ms/commands](https://github.com/microsoft/aka) - List of common Microsoft short links.
 - [aka.ms/entratemplates](https://aka.ms/entratemplates) - Email templates & posters to roll out Microsoft Entra features like MFA, SSPR, and more.
 - [aka.ms/myapps](https://aka.ms/myapps) - My Apps
