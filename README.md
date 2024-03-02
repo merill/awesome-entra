@@ -102,8 +102,6 @@ Microsoft Entra related aka.ms links
 - [EntraID-Group-Cleanup](https://github.com/M365-Consultant/EntraID-Group-Cleanup) - Azure Runbook to automatically remove users from a group based on time of membership (e.g. 30 days).  [![stars](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)
 - [EntraID-MFA-DynamicGroup](https://github.com/M365-Consultant/EntraID-MFA-DynamicGroup) - Azure Runbook to automatically add users to a group based on MFA status.  [![stars](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)
 
-## Training
-
 ## Certifications
 
 - [Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/)
