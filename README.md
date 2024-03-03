@@ -27,6 +27,7 @@
 - [cmd.ms/portals/azuread](https://cmd.ms/portals/azuread) - Complete list of shortcuts to blades in the Entra portal.
 - [aka.ms/commands](https://github.com/microsoft/aka) - List of common Microsoft short links.
 - [aka.ms/entratemplates](https://aka.ms/entratemplates) - Email templates & posters to roll out Microsoft Entra features like MFA, SSPR, and more.
+- [aka.ms/entraidac](https://aka.ms/entraidac) - Microsoft Entra ID Admin Center
 - [aka.ms/myapps](https://aka.ms/myapps) - My Apps
 - [aka.ms/my-account](https://aka.ms/my-account) - My Account
 - [aka.ms/my-groups](https://aka.ms/my-groups) - My Groups
@@ -40,6 +41,9 @@
 - [aka.ms/pimz](https://aka.ms/pimz) - Privileged Identity Management - Azure Resources
 - [aka.ms/sspr](https://aka.ms/sspr) - Self Service Password Reset
 - [aka.ms/mfasetup](https://aka.ms/mfasetup) - Alternative for My Security Info
+- [aka.ms/entradocs](https://aka.ms/entradocs) - Microsoft Entra Technical Documentation
+- [aka.ms/graphref](https://aka.ms/graphref) - Microsoft Graph REST API Reference - v1.0 
+- [aka.ms/graphrefbeta](https://aka.ms/graphrefbeta) - Microsoft Graph REST API Reference - Beta
 
 ## Tools
 
