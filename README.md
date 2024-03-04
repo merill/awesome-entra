@@ -26,6 +26,7 @@
 
 - [cmd.ms/portals/azuread](https://cmd.ms/portals/azuread) - Complete list of shortcuts to blades in the Entra portal.
 - [aka.ms/commands](https://github.com/microsoft/aka) - List of common Microsoft short links.
+- [msportals.io](https://msportals.io) - Links to all Microsoft admin portals.
 - [aka.ms/entratemplates](https://aka.ms/entratemplates) - Email templates & posters to roll out Microsoft Entra features like MFA, SSPR, and more.
 - [aka.ms/entraidac](https://aka.ms/entraidac) - Microsoft Entra ID Admin Center
 - [aka.ms/myapps](https://aka.ms/myapps) - My Apps
