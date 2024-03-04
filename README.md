@@ -60,6 +60,8 @@
 - [AADInternals](https://github.com/Gerenios/AADInternals) - PowerShell toolkit for administering and hacking Azure AD and Microsoft 365. [![stars](https://badgen.net/github/stars/Gerenios/AADInternals)](https://badgen.net/github/stars/Gerenios/AADInternals)
 - [Azure AD Assessment aka.ms/AzureADAssessmentTools](https://github.com/AzureAD/AzureADAssessment/wiki) - Guidance to assess the health of an Azure AD tenant and provide best practice guidance / recommendations. [![stars](https://badgen.net/github/stars/AzureAD/AzureADAssessment)](https://badgen.net/github/stars/AzureAD/AzureADAssessment)
 - [Azure-AccessPermissions](https://github.com/csandker/Azure-AccessPermissions) - Script to enumerate access permissions in an Azure Active Directory environment [![stars](https://badgen.net/github/stars/csandker/Azure-AccessPermissions)](https://badgen.net/github/stars/csandker/Azure-AccessPermissions)
+- [Azure AD Connect Permissions](https://aka.ms/aadpermissions) - Script to configure custom permissions for Azure AD Connect. 
+- [Azure AD Connect Network Connectivity](https://aka.ms/aadnetwork) - Script to test network connectivity between Azure AD Connect servers, domain controllers, and online service network endpoints.
 - [AzureADTenantID](https://github.com/darrenjrobinson/AzureADTenantID) - PowerShell module to retrieve the TenantID for an Azure AD Tenant. [![stars](https://badgen.net/github/stars/darrenjrobinson/AzureADTenantID)](https://badgen.net/github/stars/darrenjrobinson/AzureADTenantID)
 - [AzurePrivilegedIAM](https://github.com/Cloud-Architekt/AzurePrivilegedIAM) - Docs and samples for privileged identity and access management in Microsoft Azure and Microsoft Entra [![stars](https://badgen.net/github/stars/Cloud-Architekt/AzurePrivilegedIAM)](https://badgen.net/github/stars/Cloud-Architekt/AzurePrivilegedIAM)
 - [AzurePasswordProtectionCalculator](https://github.com/jkerai1/AzurePasswordProtectionCalculator/) - Calculator for Azure Password Protection [![stars](https://badgen.net/github/stars/jkerai1/AzurePasswordProtectionCalculator)](https://badgen.net/github/stars/jkerai1/AzurePasswordProtectionCalculator)
@@ -67,6 +69,7 @@
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound) - BloodHound uses graph theory to reveal hidden relationships and attack paths in an Active Directory environment that would otherwise be impossible to quickly identify. [![stars](https://badgen.net/github/stars/BloodHoundAD/BloodHound)](https://badgen.net/github/stars/BloodHoundAD/BloodHound)
 - [CA Optics](https://github.com/jsa2/caOptics) - Conditional Access gap analyzer [![stars](https://badgen.net/github/stars/jsa2/caOptics)](https://badgen.net/github/stars/jsa2/caOptics)
 - [ConditionalAccessDocumentation](https://github.com/nicolonsky/ConditionalAccessDocumentation) - PowerShell module to document Conditional Access policies in Excel. [![stars](https://badgen.net/github/stars/nicolonsky/ConditionalAccessDocumentation)](https://badgen.net/github/stars/nicolonsky/ConditionalAccessDocumentation)
+- [Create-LabUsers](https://aka.ms/CreatLabUsers) - Script to build fully-populated on-premises AD environment for testing domain services and directory synchronization. 
 - [DCToolbox](https://github.com/DanielChronlund/DCToolbox) - Collection of tools for Conditional Access automation, what-if simulation and more. [![stars](https://badgen.net/github/stars/DanielChronlund/DCToolbox)](https://badgen.net/github/stars/DanielChronlund/DCToolbox)
 - [EasyPIM](https://github.com/kayasax/EasyPIM) - Manage PIM Azure Resource role and assignment with ease. [![stars](https://badgen.net/github/stars/kayasax/EasyPIM)](https://badgen.net/github/stars/kayasax/EasyPIM)
 - [Entra Exporter aka.ms/EntraExporter](https://github.com/microsoft/EntraExporter) - PowerShell module that exports all the config and data of a Microsoft Entra tenant. [![stars](https://badgen.net/github/stars/microsoft/EntraExporter)](https://badgen.net/github/stars/microsoft/EntraExporter)
@@ -196,6 +199,7 @@ These posts will make your head hurt, but in a good way.
 
 ## LinkedIn
 
+- [Aaron Guilmette](https://www.linkedin.com/in/aaronguilmette), Ex-Microsoft
 - [Bailey Bercik](https://www.linkedin.com/in/baileybercik/), Microsoft
 - [Chetan Desai](https://www.linkedin.com/in/cmmdesai/), Microsoft
 - [Christina Morillo](https://www.linkedin.com/in/christinamorillo/), Ex-Microsoft
@@ -241,6 +245,7 @@ These posts will make your head hurt, but in a good way.
 - [Hamet Benoit's Blog - blog.hametbenoit.info](https://blog.hametbenoit.info/)
 - [Hans Brender - hansbrender.com](https://hansbrender.com/)
 - [Hybrid Brothers - hybridbrothers.com](https://hybridbrothers.com/)
+- [Identity Dude - identitydude.com](https://www.identitydude.com)
 - [Identity Man - identity-man.eu](https://identity-man.eu/)
 - [Idefix Wiki - idefixwiki.no](https://idefixwiki.no/)
 - [In The Cloud 24/7 - inthecloud247.com](https://www.inthecloud247.com/)
