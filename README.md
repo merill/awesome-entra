@@ -187,6 +187,7 @@ These posts will make your head hurt, but in a good way.
 - [Rod Trent (@rodtrent)](https://twitter.com/rodtrent), Microsoft
 - [rootsecdev (@rootsecdev)](https://twitter.com/rootsecdev)
 - [Ryan Hausknecht (@Haus3c)](https://twitter.com/Haus3c)
+- [Ryan Yates (@ryanyates1990)](https://twitter.com/ryanyates1990), Former MVP in Cloud & Datacenter Management
 - [Sean Metcalf (@PyroTek3)](https://twitter.com/PyroTek3)
 - [Stian A. Strysse (@stianstrysse)](https://twitter.com/stianstrysse)
 - [Suryendu Bhattacharyya (@crookedbong)](https://twitter.com/crookedbong)
