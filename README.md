@@ -199,6 +199,7 @@ These posts will make your head hurt, but in a good way.
 ## LinkedIn
 
 - [Bailey Bercik](https://www.linkedin.com/in/baileybercik/), Microsoft
+- [Jan Bakker](https://www.linkedin.com/in/jan-bakker/), MVP
 - [Chetan Desai](https://www.linkedin.com/in/cmmdesai/), Microsoft
 - [Christina Morillo](https://www.linkedin.com/in/christinamorillo/), Ex-Microsoft
 - [Den D.](https://www.linkedin.com/in/dendeli/), Microsoft
@@ -289,3 +290,6 @@ These posts will make your head hurt, but in a good way.
 - [The New Control Plane - medium.com/the-new-control-plane](https://medium.com/the-new-control-plane)
 - [Undocumented Features - undocumented-features.com](https://www.undocumented-features.com/)
 - [Zero Trust - zerotrust.how](https://zerotrust.how/)
+  
+### User Groups
+- [Dutch Microsoft Entra Community](https://aka.ms/dmec)
