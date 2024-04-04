@@ -20,7 +20,7 @@
 
 ## Mind Map
 
-- [Microsoft Entra Mind Map - idPowerToys.com](https://idpowertoys.com/assets/mindmaps/entra-v1.pdf) - Visual representation of Microsoft Entra and its components with links to docs.
+- [Microsoft Entra Mind Map - idPowerToys.com](https://idpowertoys.merill.net/assets/mindmaps/entra-v1.pdf) - Visual representation of Microsoft Entra and its components with links to docs.
 
 ## aka.ms & cmd.ms
 
