@@ -100,7 +100,7 @@
 
 - [AADInternals - OSINT](https://aadinternals.com/osint) - OSINT web app that displays tenant information.
 - [Microsoft Graph Explorer aka.ms/ge](https://aka.ms/ge) - Graph Explorer is a web-based tool to help you understand and test Microsoft Graph APIs.
-- [idPowerToys.com](https://idPowerToys.com) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
+- [idPowerToys.com](https://idpowertoys.merill.net) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 - [SCIM Playground](https://scim.dev/) - SCIM Playground is a web-based tool to help you understand and test SCIM APIs.
 
 ### Log Analytics, KQL, Logic Apps...
