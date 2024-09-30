@@ -99,7 +99,8 @@
 - [StormSpotter aka.ms/StormSpotter](https://github.com/Azure/Stormspotter) - Azure Red Team tool for graphing Azure and Azure Active Directory objects. [![stars](https://badgen.net/github/stars/Azure/Stormspotter)](https://badgen.net/github/stars/Azure/Stormspotter)
 - [TokenTactics](https://github.com/rvrsh3ll/TokenTactics) - Tool to test and demonstrate the impact of token-based attacks on Microsoft Entra. [![stars](https://badgen.net/github/stars/rvrsh3ll/TokenTactics)](https://badgen.net/github/stars/rvrsh3ll/TokenTactics)
 - [TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) - Fork of the great TokenTactics with support for CAE and token endpoint. [![stars](https://badgen.net/github/stars/f-bader/TokenTacticsV2)](https://badgen.net/github/stars/f-bader/TokenTacticsV2)
-- [Microsoft cloud group analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer) - Sript that provides insights in what services/policies/... a given group or user is scoped to.
+- [Microsoft cloud group analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer) - Sript that provides insights in what services/policies/... a given group or user is scoped to. [![stars](https://badgen.net/github/stars/jasperbaes/Microsoft-Cloud-Group-Analyzer)](https://badgen.net/github/stars/jasperbaes/Microsoft-Cloud-Group-Analyzer)
+- [EntraOps](https://github.com/Cloud-Architekt/EntraOps) - Classify, identify and protect your privileges based on Enterprise Access Model
 
 ### Web apps
 
