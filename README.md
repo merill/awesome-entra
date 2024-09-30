@@ -20,7 +20,11 @@
 
 ## Mind Map
 
-- [Microsoft Entra Mind Map - idPowerToys.com](https://idpowertoys.merill.net/assets/mindmaps/entra-v1.pdf) - Visual representation of Microsoft Entra and its components with links to docs.
+- [Microsoft Entra Mind Maps](https://entra.news/p/entra-mind-maps) - Visual representation of Microsoft Entra and its components with links to docs. Includes Entra Roles mindmap.
+
+## Entra Learning Hubs
+
+- [Global Secure Access - Resource Hub](https://aka.ms/GlobalSecureAccessCommunity) - Knowledge hub for all things GSA maintained by the GSA Customer Experience Engineering team.
 
 ## aka.ms & cmd.ms
 
@@ -95,13 +99,15 @@
 - [StormSpotter aka.ms/StormSpotter](https://github.com/Azure/Stormspotter) - Azure Red Team tool for graphing Azure and Azure Active Directory objects. [![stars](https://badgen.net/github/stars/Azure/Stormspotter)](https://badgen.net/github/stars/Azure/Stormspotter)
 - [TokenTactics](https://github.com/rvrsh3ll/TokenTactics) - Tool to test and demonstrate the impact of token-based attacks on Microsoft Entra. [![stars](https://badgen.net/github/stars/rvrsh3ll/TokenTactics)](https://badgen.net/github/stars/rvrsh3ll/TokenTactics)
 - [TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) - Fork of the great TokenTactics with support for CAE and token endpoint. [![stars](https://badgen.net/github/stars/f-bader/TokenTacticsV2)](https://badgen.net/github/stars/f-bader/TokenTacticsV2)
+- [Microsoft cloud group analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer) - Sript that provides insights in what services/policies/... a given group or user is scoped to.
 
 ### Web apps
 
 - [AADInternals - OSINT](https://aadinternals.com/osint) - OSINT web app that displays tenant information.
 - [Microsoft Graph Explorer aka.ms/ge](https://aka.ms/ge) - Graph Explorer is a web-based tool to help you understand and test Microsoft Graph APIs.
-- [idPowerToys.com](https://idpowertoys.merill.net) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
+- [idPowerToys](https://idpowertoys.merill.net) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 - [SCIM Playground](https://scim.dev/) - SCIM Playground is a web-based tool to help you understand and test SCIM APIs.
+- [Conditional Access Blueprint](https://www.jbaes.be/Conditional-Access-Blueprint) - Four tools to model and create CA policies.
 
 ### Log Analytics, KQL, Logic Apps...
 
