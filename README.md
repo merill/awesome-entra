@@ -37,8 +37,8 @@
 - [aka.ms/myaccount](https://aka.ms/myaccount) - My Account
 - [aka.ms/my-groups](https://aka.ms/my-groups) - My Groups
 - [aka.ms/my-access](https://aka.ms/my-access) - My Access Packages
-- [aka.ms/mystaff](https://aka.ms/mystaff) - My Access Packages
-- [aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo) - My Security Info
+- [aka.ms/mystaff](https://aka.ms/mystaff) - My Staff
+- [aka.ms/mysecurity](https://aka.ms/mysecurity), [aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo) - My Security Info
 - [aka.ms/mysignins](https://aka.ms/mysignins) - My Sign-ins
 - [aka.ms/pim](https://aka.ms/pim) - Privileged Identity Management - Roles
 - [aka.ms/pimg](https://aka.ms/pimg) - Privileged Identity Management - Groups
