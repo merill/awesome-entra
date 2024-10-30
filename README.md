@@ -34,7 +34,7 @@
 - [aka.ms/entratemplates](https://aka.ms/entratemplates) - Email templates & posters to roll out Microsoft Entra features like MFA, SSPR, and more.
 - [aka.ms/entraidac](https://aka.ms/entraidac) - Microsoft Entra ID Admin Center
 - [aka.ms/myapps](https://aka.ms/myapps) - My Apps
-- [aka.ms/my-account](https://aka.ms/my-account) - My Account
+- [aka.ms/myaccount](https://aka.ms/myaccount) - My Account
 - [aka.ms/my-groups](https://aka.ms/my-groups) - My Groups
 - [aka.ms/my-access](https://aka.ms/my-access) - My Access Packages
 - [aka.ms/mystaff](https://aka.ms/mystaff) - My Access Packages
