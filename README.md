@@ -187,6 +187,7 @@ These posts will make your head hurt, but in a good way.
 - [Lukas Beran (@lukasberancz)](https://twitter.com/lukasberancz), Microsoft
 - [Marius Solbakken (@mariussolbakken)](https://twitter.com/mariussolbakken)
 - [Matt Zorich (@reprise_99)](https://twitter.com/reprise_99), Microsoft
+- [Matthew Levy (@mattchatt42)](https://twitter.com/mattchatt42), MVP
 - [Merill Fernando (@merill)](https://twitter.com/merill), Microsoft
 - [Nick Ludwig (@welcome2theDL)](https://twitter.com/welcome2theDL), Microsoft
 - [Olaf Hartong (@olafhartong), MVP](https://twitter.com/olafhartong), MVP
