@@ -164,6 +164,7 @@ These posts will make your head hurt, but in a good way.
 ## Bluesky
 
 - [Damien Bowden](https://bsky.app/profile/damienbod.bsky.social), MVP
+- [Merill Fernando](https://bsky.app/profile/merill.net), Microsoft
 
 ## Twitter
 
