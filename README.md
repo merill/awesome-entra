@@ -161,6 +161,10 @@ These posts will make your head hurt, but in a good way.
 
 - [Microsoft Incident Response lessons on preventing cloud identity compromise](https://www.microsoft.com/en-us/security/blog/2023/12/05/microsoft-incident-response-lessons-on-preventing-cloud-identity-compromise/)
 
+## Bluesky
+
+- [Damien Bowden](https://bsky.app/profile/damienbod.bsky.social), MVP
+
 ## Twitter
 
 - [Alex Simons (@Alex_A_Simons)](https://twitter.com/Alex_A_Simons), Microsoft
@@ -209,6 +213,7 @@ These posts will make your head hurt, but in a good way.
 ## LinkedIn
 
 - [Bailey Bercik](https://www.linkedin.com/in/baileybercik/), Microsoft
+- [Damien Bowden](https://www.linkedin.com/in/damien-bowden-42a450176/), MVP
 - [Jan Bakker](https://www.linkedin.com/in/jan-bakker/), MVP
 - [Chetan Desai](https://www.linkedin.com/in/cmmdesai/), Microsoft
 - [Christina Morillo](https://www.linkedin.com/in/christinamorillo/), Ex-Microsoft
