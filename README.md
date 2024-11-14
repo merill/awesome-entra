@@ -227,7 +227,7 @@ These posts will make your head hurt, but in a good way.
 - [Mark Morowczynski](https://www.linkedin.com/in/markmorow/), Microsoft
 - [Mark Wahl](https://www.linkedin.com/in/mawahl/), Microsoft
 - [Monicah Wambugu](https://www.linkedin.com/in/wambugu/), Microsoft
-- [Tee Earls](https://www.linkedin.com/in/teeearls/), Microsoft,
+- [Tee Earls](https://www.linkedin.com/in/teeearls/), Microsoft
 - [Daniel Krzyczkowski](https://www.linkedin.com/in/daniel-krzyczkowski/), MVP
 
 ## Blogs
@@ -310,7 +310,7 @@ These posts will make your head hurt, but in a good way.
 - [That Lazy Admin - thatlazyadmin.com](http://www.thatlazyadmin.com)
 - [The New Control Plane - medium.com/the-new-control-plane](https://medium.com/the-new-control-plane)
 - [Undocumented Features - undocumented-features.com](https://www.undocumented-features.com/)
-- [Zero Trust - zerotrust.how](https://zerotrust.how/),
+- [Zero Trust - zerotrust.how](https://zerotrust.how/)
 - [Tech Mind Factory](https://www.techmindfactory.com)
   
 ### User Groups
