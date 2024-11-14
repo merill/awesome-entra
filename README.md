@@ -147,6 +147,7 @@
 - [Merill Fernando (@merillx))](https://www.youtube.com/@merillx), Microsoft
 - [Peter Rising (@peterrisingM365)](https://www.youtube.com/@peterrisingM365), MVP
 - [RioCloudSync (@RioCloudSync)](https://www.youtube.com/@RioCloudSync), MVP
+- [Tech Mind Factory (@TechMindFactory)](https://www.youtube.com/@TechMindFactory), MVP
 
 ### Shows
 
@@ -166,6 +167,7 @@ These posts will make your head hurt, but in a good way.
 
 - [Damien Bowden](https://bsky.app/profile/damienbod.bsky.social), MVP
 - [Merill Fernando](https://bsky.app/profile/merill.net), Microsoft
+- [Daniel Krzyczkowski](https://bsky.app/profile/tech-mind-factory.bsky.social), MVP
 
 ## Twitter
 
@@ -211,6 +213,7 @@ These posts will make your head hurt, but in a good way.
 - [Thomas Naunheim (@thomas_live), MVP](https://twitter.com/thomas_live), MVP
 - [Thijs Lecomte (@ThijsLecomte), MVP](https://twitter.com/ThijsLecomte), MVP
 - [Tony Redmond (@12Knocksinna)](https://twitter.com/12Knocksinna),  MVP
+- [Daniel Krzyczkowski (@DKrzyczkowski)] (https://twitter.com/DKrzyczkowski), MVP
 
 ## LinkedIn
 
@@ -225,6 +228,7 @@ These posts will make your head hurt, but in a good way.
 - [Mark Wahl](https://www.linkedin.com/in/mawahl/), Microsoft
 - [Monicah Wambugu](https://www.linkedin.com/in/wambugu/), Microsoft
 - [Tee Earls](https://www.linkedin.com/in/teeearls/), Microsoft
+- [Daniel Krzyczkowski](https://www.linkedin.com/in/daniel-krzyczkowski/), MVP
 
 ## Blogs
 
@@ -307,6 +311,7 @@ These posts will make your head hurt, but in a good way.
 - [The New Control Plane - medium.com/the-new-control-plane](https://medium.com/the-new-control-plane)
 - [Undocumented Features - undocumented-features.com](https://www.undocumented-features.com/)
 - [Zero Trust - zerotrust.how](https://zerotrust.how/)
+- [Tech Mind Factory](https://www.techmindfactory.com)
   
 ### User Groups
 - [Dutch Microsoft Entra Community](https://aka.ms/dmec)
