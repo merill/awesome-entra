@@ -111,6 +111,7 @@
 - [idPowerToys](https://idpowertoys.merill.net) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 - [SCIM Playground](https://scim.dev/) - SCIM Playground is a web-based tool to help you understand and test SCIM APIs.
 - [Conditional Access Blueprint](https://www.jbaes.be/Conditional-Access-Blueprint) - Four tools to model and create CA policies.
+- [Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net/) - Shows where tenant is located. Run by Microsoft 365 U.S. Government Programs team
 
 ### Log Analytics, KQL, Logic Apps...
 
