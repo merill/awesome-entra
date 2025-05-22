@@ -19,6 +19,9 @@
 
 - [Entra.News](https://entra.news) - Weekly round up of the latest Microsoft Entra news from Microsoft and the community.
 
+## Podcast
+- [Entra.Chat](https://entra.chat) - Weekly podcast on Entra featuring seasoned Entra practitioners and Microsoft Entra product group team members.
+
 ## Mind Map
 
 - [Microsoft Entra Mind Maps](https://entra.news/p/entra-mind-maps) - Visual representation of Microsoft Entra and its components with links to docs. Includes Entra Roles mindmap.
