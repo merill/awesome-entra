@@ -28,7 +28,10 @@
 
 ## Entra Learning Hubs
 
-- [Global Secure Access - Resource Hub](https://aka.ms/GlobalSecureAccessCommunity) - Knowledge hub for all things GSA maintained by the GSA Customer Experience Engineering team.
+These learning hubs are maintained by Microsoft Entra's Customer Experience Engineering (CxE) team.
+
+- [Global Secure Access - Resource Hub](https://aka.ms/GlobalSecureAccessCommunity) - Knowledge hub for all things GSA. 
+- [Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining) - Tools, documentation, and training materials to master ID Governance.
 
 ## aka.ms & cmd.ms
 
