@@ -7,8 +7,8 @@
 - [Newsletter](#newsletter)
 - [Podcast](#podcast)
 - [Mind Map](#mind-map)
-- [Learning Hubs][#learning-hubs]
-- [Presentations][#presentations]
+- [Learning Hubs](#learning-hubs)
+- [Presentations](#presentations)
 - [aka.ms](#akams)
 - [Tools](#tools)
 - [Community](#community)
