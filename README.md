@@ -7,6 +7,8 @@
 - [Newsletter](#newsletter)
 - [Podcast](#podcast)
 - [Mind Map](#mind-map)
+- [Learning Hubs][#learning-hubs]
+- [Presentations][#presentations]
 - [aka.ms](#akams)
 - [Tools](#tools)
 - [Community](#community)
@@ -27,7 +29,7 @@
 
 - [Microsoft Entra Mind Maps](https://entra.news/p/entra-mind-maps) - Visual representation of Microsoft Entra and its components with links to docs. Includes Entra Roles mindmap.
 
-## Entra Learning Hubs
+## Learning Hubs
 
 These learning hubs are maintained by Microsoft Entra's Customer Experience Engineering (CxE) team.
 
