@@ -37,7 +37,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining) - Tools, documentation, and training materials to master ID Governance.
 
 ## Presentations
-- [Entra Slide Decks][https://slides.entra.news] - Merill's collection of Entra related presentations.
+- [Entra Slide Decks](https://slides.entra.news) - Merill's collection of Entra related presentations.
 
 ## aka.ms & cmd.ms
 
