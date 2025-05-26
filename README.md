@@ -5,6 +5,7 @@
 ## Contents
 
 - [Newsletter](#newsletter)
+- [Podcast](#podcast)
 - [Mind Map](#mind-map)
 - [aka.ms](#akams)
 - [Tools](#tools)
@@ -32,6 +33,9 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 
 - [Global Secure Access - Resource Hub](https://aka.ms/GlobalSecureAccessCommunity) - Knowledge hub for all things GSA. 
 - [Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining) - Tools, documentation, and training materials to master ID Governance.
+
+## Presentations
+- [Entra Slide Decks][https://slides.entra.news] - Merill's collection of Entra related presentations.
 
 ## aka.ms & cmd.ms
 
