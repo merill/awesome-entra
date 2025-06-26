@@ -124,6 +124,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [SCIM Playground](https://scim.dev/) - SCIM Playground is a web-based tool to help you understand and test SCIM APIs.
 - [Conditional Access Blueprint](https://www.jbaes.be/Conditional-Access-Blueprint) - Four tools to model and create CA policies.
 - [Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net/) - Shows where tenant is located. Run by Microsoft 365 U.S. Government Programs team
+- [Entra Scopes](https://entrascopes.com/) - The yellow pages of Microsoft first party apps. Includes filtering by scope, FOCI and more.
 
 ### Log Analytics, KQL, Logic Apps...
 
