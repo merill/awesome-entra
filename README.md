@@ -4,8 +4,7 @@
 
 ## Contents
 
-- [Newsletter](#newsletter)
-- [Podcast](#podcast)
+- [Merill's newsletter & podcast](#merills-newsletter--podcast)
 - [Mind Map](#mind-map)
 - [Learning Hubs](#learning-hubs)
 - [Presentations](#presentations)
@@ -13,16 +12,15 @@
 - [Tools](#tools)
 - [Community](#community)
 - [YouTube](#youtube)
+- [Podcast](#podcast)
 - [Bluesky](#bluesky)
 - [Twitter](#twitter)
 - [LinkedIn](#linkedin)
 - [Blogs](#blogs)
 
-## Newsletter
+## Merill's newsletter & podcast
 
 - [Entra.News](https://entra.news) - Weekly round up of the latest Microsoft Entra news from Microsoft and the community.
-
-### Podcast
 - [Entra.Chat](https://entra.chat) - Weekly podcast on Entra featuring seasoned Entra practitioners and Microsoft Entra product group team members.
 
 ## Mind Map
@@ -124,7 +122,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [Entra Scopes](https://entrascopes.com/) - The yellow pages of Microsoft first party apps. Includes filtering by scope, FOCI and more.
 - [Entra Sign-In Url Builder](https://signin.merill.net/) - Tool to generate OAuth 2.0 authorization URLs and admin consent urls. Handy for testing SSO.
 - [Graph Explorer aka.ms/ge](https://aka.ms/ge) - Graph Explorer is a web-based tool to help you understand and test Microsoft Graph APIs.
-- [Graph Permissions Explorer] - Find out what Graph APIs are accessible for each Graph Permission Scope.
+- [Graph Permissions Explorer](https://https://graphpermissions.merill.net/) - Find out what Graph APIs are accessible for each Graph Permission Scope.
 - [idPowerToys](https://idpowertoys.merill.net) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 - [SCIM Playground](https://scim.dev/) - SCIM Playground is a web-based tool to help you understand and test SCIM APIs.
 - [Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net/) - Shows where tenant is located. Run by Microsoft 365 U.S. Government Programs team
@@ -167,6 +165,13 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [RioCloudSync (@RioCloudSync)](https://www.youtube.com/@RioCloudSync), MVP
 - [Tech Mind Factory (@TechMindFactory)](https://www.youtube.com/@TechMindFactory), MVP
 - [Threatscape (@threatscape)](https://www.youtube.com/@threatscape), MVP
+
+## Podcast
+- [Azure Security Podcast](https://azuresecuritypodcast.azurewebsites.net/)
+- [Entra Chat](https://entra.chat)
+- [Ctrl+Alt+Azure](https://ctrlaltazure.com/)
+- 
+- 
 
 ### Shows
 
@@ -242,9 +247,10 @@ These posts will make your head hurt, but in a good way.
 - [Christina Morillo](https://www.linkedin.com/in/christinamorillo/), Ex-Microsoft
 - [Den D.](https://www.linkedin.com/in/dendeli/), Microsoft
 - [Eric Mannon](https://www.linkedin.com/in/emannon/), MVP
+- [Eric Woodruff](https://www.linkedin.com/in/ericonidentity/), Semperis
+- [Katie Knowles](https://www.linkedin.com/in/kaknowles/), DataDog
 - [Mark Morowczynski](https://www.linkedin.com/in/markmorow/), Microsoft
 - [Mark Wahl](https://www.linkedin.com/in/mawahl/), Microsoft
-- [Monicah Wambugu](https://www.linkedin.com/in/wambugu/), Microsoft
 - [Tee Earls](https://www.linkedin.com/in/teeearls/), Microsoft
 - [Daniel Krzyczkowski](https://www.linkedin.com/in/daniel-krzyczkowski/), MVP
 
