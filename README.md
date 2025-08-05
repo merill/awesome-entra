@@ -9,7 +9,7 @@
 - [Mind Map](#mind-map)
 - [Learning Hubs](#learning-hubs)
 - [Presentations](#presentations)
-- [aka.ms](#akams)
+- [aka.ms](#akams--cmdms)
 - [Tools](#tools)
 - [Community](#community)
 - [YouTube](#youtube)
@@ -22,7 +22,7 @@
 
 - [Entra.News](https://entra.news) - Weekly round up of the latest Microsoft Entra news from Microsoft and the community.
 
-## Podcast
+### Podcast
 - [Entra.Chat](https://entra.chat) - Weekly podcast on Entra featuring seasoned Entra practitioners and Microsoft Entra product group team members.
 
 ## Mind Map
@@ -90,6 +90,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [EasyPIM](https://github.com/kayasax/EasyPIM) - Manage PIM Azure Resource role and assignment with ease. [![stars](https://badgen.net/github/stars/kayasax/EasyPIM)](https://badgen.net/github/stars/kayasax/EasyPIM)
 - [Entra Exporter aka.ms/EntraExporter](https://github.com/microsoft/EntraExporter) - PowerShell module that exports all the config and data of a Microsoft Entra tenant. [![stars](https://badgen.net/github/stars/microsoft/EntraExporter)](https://badgen.net/github/stars/microsoft/EntraExporter)
 - [Entra Export Template](https://github.com/aaronparker/entra-export-template) - Workflows for scheduled export of settings from an Entra tenant. [![stars](https://badgen.net/github/stars/aaronparker/entra-export-template)](https://badgen.net/github/stars/aaronparker/entra-export-template)
+- [EntraGoat](https://github.com/Semperis/EntraGoat) - Deliberately vulnerable Microsoft Entra ID infrastructure to simulate security misconfigurations and attack vectors [![stars](https://badgen.net/github/stars/Semperis/EntraGoat)](https://badgen.net/github/stars/Semperis/EntraGoat)
 - [Evilginx](https://github.com/kgretzky/evilginx2) - Man-in-the-middle attack framework [![stars](https://badgen.net/github/stars/kgretzky/evilginx2)](https://badgen.net/github/stars/kgretzky/evilginx2)
 - [family-of-client-ids-research](https://github.com/secureworks/family-of-client-ids-research) - Research into Undocumented Behavior of Azure AD Refresh Tokens [![stars](https://badgen.net/github/stars/secureworks/family-of-client-ids-research)](https://badgen.net/github/stars/secureworks/family-of-client-ids-research)
 - [Graph PowerShell Sample Script Repository - aka.ms/graphsamples](https://aka.ms/graphsamples) - Community contributed repository of common Graph PowerShell scripts
@@ -162,6 +163,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [Peter Rising (@peterrisingM365)](https://www.youtube.com/@peterrisingM365), MVP
 - [RioCloudSync (@RioCloudSync)](https://www.youtube.com/@RioCloudSync), MVP
 - [Tech Mind Factory (@TechMindFactory)](https://www.youtube.com/@TechMindFactory), MVP
+- [Threatscape (@threatscape)](https://www.youtube.com/@threatscape), MVP
 
 ### Shows
 
