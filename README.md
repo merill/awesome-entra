@@ -120,12 +120,15 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 ### Web apps
 
 - [AADInternals - OSINT](https://aadinternals.com/osint) - OSINT web app that displays tenant information.
-- [Microsoft Graph Explorer aka.ms/ge](https://aka.ms/ge) - Graph Explorer is a web-based tool to help you understand and test Microsoft Graph APIs.
+- [Conditional Access Blueprint](https://www.jbaes.be/Conditional-Access-Blueprint) - Four tools to model and create CA policies.
+- [Entra Scopes](https://entrascopes.com/) - The yellow pages of Microsoft first party apps. Includes filtering by scope, FOCI and more.
+- [Entra Sign-In Url Builder](https://signin.merill.net/) - Tool to generate OAuth 2.0 authorization URLs and admin consent urls. Handy for testing SSO.
+- [Graph Explorer aka.ms/ge](https://aka.ms/ge) - Graph Explorer is a web-based tool to help you understand and test Microsoft Graph APIs.
+- [Graph Permissions Explorer] - Find out what Graph APIs are accessible for each Graph Permission Scope.
 - [idPowerToys](https://idpowertoys.merill.net) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 - [SCIM Playground](https://scim.dev/) - SCIM Playground is a web-based tool to help you understand and test SCIM APIs.
-- [Conditional Access Blueprint](https://www.jbaes.be/Conditional-Access-Blueprint) - Four tools to model and create CA policies.
 - [Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net/) - Shows where tenant is located. Run by Microsoft 365 U.S. Government Programs team
-- [Entra Scopes](https://entrascopes.com/) - The yellow pages of Microsoft first party apps. Includes filtering by scope, FOCI and more.
+
 
 ### Log Analytics, KQL, Logic Apps...
 
