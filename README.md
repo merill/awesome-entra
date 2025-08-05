@@ -229,7 +229,6 @@ These posts will make your head hurt, but in a good way.
 - [Thomas Naunheim (@thomas_live), MVP](https://twitter.com/thomas_live), MVP
 - [Thijs Lecomte (@ThijsLecomte), MVP](https://twitter.com/ThijsLecomte), MVP
 - [Tony Redmond (@12Knocksinna)](https://twitter.com/12Knocksinna),  MVP
-- [Daniel Krzyczkowski (@DKrzyczkowski)] (https://twitter.com/DKrzyczkowski), MVP
 
 ## LinkedIn
 
