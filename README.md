@@ -152,6 +152,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [Discord discord.entra.news](https://discord.entra.news) - Discord server for discussing Microsoft Entra.
 - [Slack - MacAdmins #microsoft-entra channel](https://macadmins.slack.com/archives/C03PDM79GKG) - Slack channel for discussing Microsoft Entra related to Apple devices.
 - [LinkedIn Group - Microsoft Entra](https://www.linkedin.com/groups/8780811/) - LinkedIn group for discussing Microsoft Entra.
+- [WinAdmins Discord Community](https://winadmins.io/) - Discord server for a collection of IT professionals focused on enterprise administration of Microsoft-based environments.
 
 ## YouTube
 
