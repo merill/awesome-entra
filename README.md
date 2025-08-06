@@ -166,12 +166,13 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [Tech Mind Factory (@TechMindFactory)](https://www.youtube.com/@TechMindFactory), MVP
 - [Threatscape (@threatscape)](https://www.youtube.com/@threatscape), MVP
 
+### Playlist
+- [Phishing Resistant Authentication in Microsoft Entra](https://www.youtube.com/playlist?list=PL3ZTgFEc7LysTnItcN7SJnJ6wpPJif2-k)
+
 ## Podcast
 - [Azure Security Podcast](https://azuresecuritypodcast.azurewebsites.net/)
 - [Entra Chat](https://entra.chat)
 - [Ctrl+Alt+Azure](https://ctrlaltazure.com/)
-- 
-- 
 
 ### Shows
 
