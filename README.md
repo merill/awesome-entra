@@ -84,7 +84,9 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound) - BloodHound uses graph theory to reveal hidden relationships and attack paths in an Active Directory environment that would otherwise be impossible to quickly identify. [![stars](https://badgen.net/github/stars/BloodHoundAD/BloodHound)](https://badgen.net/github/stars/BloodHoundAD/BloodHound)
 - [CA Optics](https://github.com/jsa2/caOptics) - Conditional Access gap analyzer [![stars](https://badgen.net/github/stars/jsa2/caOptics)](https://badgen.net/github/stars/jsa2/caOptics)
 - [ConditionalAccessDocumentation](https://github.com/nicolonsky/ConditionalAccessDocumentation) - PowerShell module to document Conditional Access policies in Excel. [![stars](https://badgen.net/github/stars/nicolonsky/ConditionalAccessDocumentation)](https://badgen.net/github/stars/nicolonsky/ConditionalAccessDocumentation)
+- [ConvertTime](https://github.com/darrenjrobinson/ConvertTime) - Convert Unix/Windows timestamps to a DateTime PowerShell Object. Get Unix/Windows time from a PowerShell DateTime Object. [![stars](https://badgen.net/github/stars/darrenjrobinson/ConvertTime)](https://badgen.net/github/stars/darrenjrobinson/ConvertTime)
 - [DCToolbox](https://github.com/DanielChronlund/DCToolbox) - Collection of tools for Conditional Access automation, what-if simulation and more. [![stars](https://badgen.net/github/stars/DanielChronlund/DCToolbox)](https://badgen.net/github/stars/DanielChronlund/DCToolbox)
+- [DIDSearcher](https://github.com/darrenjrobinson/DIDSearcher) - A PowerShell Module enabling simple methods for searching the ION and Web networks for DIDs to discover their keys and endpoints. [![stars](https://badgen.net/github/stars/darrenjrobinson/DIDSearcher)](https://badgen.net/github/stars/darrenjrobinson/DIDSearcher)
 - [EasyPIM](https://github.com/kayasax/EasyPIM) - Manage PIM Azure Resource role and assignment with ease. [![stars](https://badgen.net/github/stars/kayasax/EasyPIM)](https://badgen.net/github/stars/kayasax/EasyPIM)
 - [Entra Exporter aka.ms/EntraExporter](https://github.com/microsoft/EntraExporter) - PowerShell module that exports all the config and data of a Microsoft Entra tenant. [![stars](https://badgen.net/github/stars/microsoft/EntraExporter)](https://badgen.net/github/stars/microsoft/EntraExporter)
 - [Entra Export Template](https://github.com/aaronparker/entra-export-template) - Workflows for scheduled export of settings from an Entra tenant. [![stars](https://badgen.net/github/stars/aaronparker/entra-export-template)](https://badgen.net/github/stars/aaronparker/entra-export-template)
@@ -93,6 +95,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [family-of-client-ids-research](https://github.com/secureworks/family-of-client-ids-research) - Research into Undocumented Behavior of Azure AD Refresh Tokens [![stars](https://badgen.net/github/stars/secureworks/family-of-client-ids-research)](https://badgen.net/github/stars/secureworks/family-of-client-ids-research)
 - [Graph PowerShell Sample Script Repository - aka.ms/graphsamples](https://aka.ms/graphsamples) - Community contributed repository of common Graph PowerShell scripts
 - [GraphRunner](https://github.com/dafthack/GraphRunner/) - A Post-exploitation Toolset for Interacting with the Microsoft Graph API [![stars](https://badgen.net/github/stars/dafthack/GraphRunner)](https://badgen.net/github/stars/dafthack/GraphRunner)
+- [JWTDetails](https://github.com/darrenjrobinson/JWTDetails) - Decode a JWT Access Token and convert to a PowerShell Object. PowerShell Object also includes the JWT Signature (sig), JWT Token Expiry (expiryDateTime) and JWT Token time to expiry (timeToExpiry). [![stars](https://badgen.net/github/stars/darrenjrobinson/JWTDetails)](https://badgen.net/github/stars/darrenjrobinson/JWTDetails)
 - [MicroBurst](https://github.com/NetSPI/MicroBurst) - PowerShell Toolkit for Attacking Azure. [![stars](https://badgen.net/github/stars/NetSPI/MicroBurst)](https://badgen.net/github/stars/NetSPI/MicroBurst)
 - [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations using PowerShell DSC [![stars](https://badgen.net/github/stars/microsoft/Microsoft365DSC)](https://badgen.net/github/stars/microsoft/Microsoft365DSC)
 - [Microsoft First Party AppNames aka.ms/AppNames](https://github.com/merill/microsoft-info/) - Repository hosting a daily updated csv/json of Microsoft first party app names and their GUIDs (useful for kql queries and scripts). [![stars](https://badgen.net/github/stars/merill/microsoft-info)](https://badgen.net/github/stars/merill/microsoft-info)
@@ -101,7 +104,9 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - Version manager for the Graph PowerShell SDK. [![stars](https://badgen.net/github/stars/KnudsenMorten/MicrosoftGraphPS)](https://badgen.net/github/stars/KnudsenMorten/MicrosoftGraphPS)
 - [MiniGraph](https://github.com/FriedrichWeinmann/MiniGraph) - Minimal overhead Microsoft Graph client implementation for lean environment like Azure Functions [![stars](https://badgen.net/github/stars/FriedrichWeinmann/MiniGraph)](https://badgen.net/github/stars/FriedrichWeinmann/MiniGraph)
 - [MSIdentityTools aka.ms/msid](https://github.com/AzureAD/MSIdentityTools) - Collection of useful cmdlets for common Entra functionality. [![stars](https://badgen.net/github/stars/AzureAD/MSIdentityTools)](https://badgen.net/github/stars/AzureAD/MSIdentityTools)
+- [Passkey Provider AAGUID's](https://github.com/darrenjrobinson/PasskeyProviderAAGUIDs) - Programatically manage Passkey Providers AAGUIDs [![stars](https://badgen.net/github/stars/darrenjrobinson/PasskeyProviderAAGUIDs)](https://badgen.net/github/stars/darrenjrobinson/PasskeyProviderAAGUIDs)
 - [Ping Castle](https://github.com/vletoux/pingcastle) - Security Assessment Tool [![stars](https://badgen.net/github/stars/vletoux/pingcastle)](https://badgen.net/github/stars/vletoux/pingcastle)
+- [PKCE Code Verifier and Challenge Generator](https://github.com/darrenjrobinson/PKCE) - Generate OAuth 2.0 Proof Key for Code Exchange (PKCE) 'code_challenge' and 'code_verifier' for use with an OAuth2 Authorization Code Grant flow. [![stars](https://badgen.net/github/stars/darrenjrobinson/PKCE)](https://badgen.net/github/stars/darrenjrobinson/PKCE)
 - [PSMSGraphBatchRequest](https://github.com/HCRitter/PSMSGraphBatchRequest) - PowerShell module to transform data into Microsoft Graph Batch Requests. [![stars](https://badgen.net/github/stars/HCRitter/PSMSGraphBatchRequest)](https://badgen.net/github/stars/HCRitter/PSMSGraphBatchRequest)
 - [PowerZure](https://github.com/hausec/PowerZure) - PowerShell project created to perform reconnaissance and exploitation of Azure, AzureAD, and the associated resources. [![stars](https://badgen.net/github/stars/hausec/PowerZure)](https://badgen.net/github/stars/hausec/PowerZure)
 - [ROADrecon](https://github.com/dirkjanm/ROADtools) - Tool for exploring information in Azure AD from both a Red Team and Blue Team perspective. [![stars](https://badgen.net/github/stars/dirkjanm/ROADtools)](https://badgen.net/github/stars/dirkjanm/ROADtools)
@@ -112,6 +117,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [TokenTactics](https://github.com/rvrsh3ll/TokenTactics) - Tool to test and demonstrate the impact of token-based attacks on Microsoft Entra. [![stars](https://badgen.net/github/stars/rvrsh3ll/TokenTactics)](https://badgen.net/github/stars/rvrsh3ll/TokenTactics)
 - [TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) - Fork of the great TokenTactics with support for CAE and token endpoint. [![stars](https://badgen.net/github/stars/f-bader/TokenTacticsV2)](https://badgen.net/github/stars/f-bader/TokenTacticsV2)
 - [Microsoft cloud group analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer) - Sript that provides insights in what services/policies/... a given group or user is scoped to. [![stars](https://badgen.net/github/stars/jasperbaes/Microsoft-Cloud-Group-Analyzer)](https://badgen.net/github/stars/jasperbaes/Microsoft-Cloud-Group-Analyzer)
+- [X509Details](https://github.com/darrenjrobinson/X509Details) - Decode an X509 Certificate and present it as a PowerShell Object. Certificate PowerShell Object details updated to include the X509 Certificate time to expiry (timeToExpiry). [![stars](https://badgen.net/github/stars/darrenjrobinson/X509Details)](https://badgen.net/github/stars/darrenjrobinson/X509Details)
 - [EntraOps](https://github.com/Cloud-Architekt/EntraOps) - Classify, identify and protect your privileges based on Enterprise Access Model [![stars](https://badgen.net/github/stars/Cloud-Architekt/EntraOps)](https://badgen.net/github/stars/Cloud-Architekt/EntraOps)
 - [Maester](https://github.com/maester365/maester) - Automated test framework for conditional access and Entra configuration [![stars](https://badgen.net/github/stars/maester365/maester)](https://badgen.net/github/stars/maester365/maester)
 
@@ -119,6 +125,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 
 - [AADInternals - OSINT](https://aadinternals.com/osint) - OSINT web app that displays tenant information.
 - [Conditional Access Blueprint](https://www.jbaes.be/Conditional-Access-Blueprint) - Four tools to model and create CA policies.
+- [EntraPulse](https://github.com/darrenjrobinson/EntraPulseLite) - AI-Powered Gateway to Microsoft Graph & Docs. Local and Cloud LLM support for Lokka and Docs/Learn MCP. 
 - [Entra Scopes](https://entrascopes.com/) - The yellow pages of Microsoft first party apps. Includes filtering by scope, FOCI and more.
 - [Entra Sign-In Url Builder](https://signin.merill.net/) - Tool to generate OAuth 2.0 authorization URLs and admin consent urls. Handy for testing SSO.
 - [Graph Explorer aka.ms/ge](https://aka.ms/ge) - Graph Explorer is a web-based tool to help you understand and test Microsoft Graph APIs.
@@ -193,6 +200,8 @@ These posts will make your head hurt, but in a good way.
 - [Damien Bowden](https://bsky.app/profile/damienbod.bsky.social), MVP
 - [Merill Fernando](https://bsky.app/profile/merill.net), Microsoft
 - [Daniel Krzyczkowski](https://bsky.app/profile/tech-mind-factory.bsky.social), MVP
+- [Darren Robinson](https://bsky.app/profile/darrenjrobinson.com), MVP
+
 
 ## Twitter
 
@@ -200,6 +209,7 @@ These posts will make your head hurt, but in a good way.
 - [Ali Tajran (@alitajran)](https://twitter.com/alitajran)
 - [Andy Robbins (@_wald0)](https://twitter.com/_wald0), BloodHound
 - [Claus Jespersen](https://twitter.com/cjaspersen), Microsoft
+- [Darren Robinson (@darrenjrobinson)](https://twitter.com/darrenjrobinson), MVP
 - [Daniel Krzyczkowski (@DKrzyczkowski)](https://twitter.com/DKrzyczkowski), MVP
 - [Daniel Bradley (@DanielatOCN)](https://twitter.com/DanielatOCN), MVP
 - [DebugPrivilege (@DebugPrivilege)](https://twitter.com/DebugPrivilege), Ex MVP
@@ -272,6 +282,7 @@ These posts will make your head hurt, but in a good way.
 - [Andy Robbins - medium.com/@_wald0](https://medium.com/@_wald0)
 - [Blueboxes - blueboxes.co.uk](https://www.blueboxes.co.uk/)
 - [Brian Reid - c7solutions.com](https://c7solutions.com/)
+- [Darren Robinson - blog.darrenjrobinson.com](https://blog.darrenjrobinson.com/)
 - [Lukas Beran - cswrld.com](https://www.cswrld.com)
 - [Call 4 Cloud - call4cloud.nl](https://call4cloud.nl)
 - [Charbel Nemnom - charbelnemnom.com](https://charbelnemnom.com/)
