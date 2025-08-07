@@ -279,6 +279,7 @@ These posts will make your head hurt, but in a good way.
 - [Cloud Architekt - cloud-architekt.net](https://www.cloud-architekt.net/)
 - [Cloud Brothers - cloudbrothers.info](https://cloudbrothers.info)
 - [Cloud Coffee - cloudcoffee.ch](https://www.cloudcoffee.ch/)
+- [CloudTips - cloudtips.nl](https://www.cloudtips.nl/)
 - [Damien Bowden - damienbod.com](https://damienbod.com)
 - [David Okeyode's Blog - davidokeyode.medium.com](https://davidokeyode.medium.com/)
 - [Derk van der Woude - derkvanderwoude.medium.com](https://derkvanderwoude.medium.com)
