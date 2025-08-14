@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/merill-awesome-entra-badge.png)](https://mseep.ai/app/merill-awesome-entra)
+
 # Awesome Entra [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Microsoft Entra tools, guides, and other resources.
